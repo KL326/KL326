@@ -46,5 +46,5 @@ Here are the tools and technologies I use for data analysis and problem-solving:
 ---
 
 ### 📫 Let's Connect
-[LinkedIn](#)  
-[Portfolio](#)  
+[LinkedIn](https://www.linkedin.com/in/kristian-lama-251aa3317/)  
+[Portfolio](l326.github.io/KristianLama.github.io/)  

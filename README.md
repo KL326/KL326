@@ -12,7 +12,7 @@ Here are the tools and technologies I use for data analysis and problem-solving:
 - Proficient in Pivot Tables, advanced formulas, and data cleaning.  
 - Experience in creating dynamic dashboards and reports.  
 
-**SQL (MySQL, PostgreSQL)**  
+**SQL**  
 - Writing optimized queries for data extraction and transformation.  
 - Working with joins, subqueries, views, and stored procedures.  
 
@@ -46,5 +46,8 @@ Here are the tools and technologies I use for data analysis and problem-solving:
 ---
 
 ### 📫 Let's Connect
+<a href="https://www.linkedin.com/in/kristian-lama-251aa3317/" target="_blank" rel="noopener noreferrer">LinkedIn</a>  
+<a href="kl326.github.io/KristianLama.github.io/" target="_blank" rel="noopener noreferrer">Portfolio</a>
+
 [LinkedIn](https://www.linkedin.com/in/kristian-lama-251aa3317/)  
-[Portfolio](l326.github.io/KristianLama.github.io/)  
+[Portfolio](kl326.github.io/KristianLama.github.io/)  
